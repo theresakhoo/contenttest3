@@ -5,5 +5,6 @@
   "to" : "To",
   "transferFrom" : "Transfer from",
   "transferTo" : "Transfer to",
-  "transferMoneyFrom" : "Transfer money from your generous friend"
+  "transferMoneyFrom" : "Transfer money from your generous friend",
+  "available" : "Available Now"
 }
