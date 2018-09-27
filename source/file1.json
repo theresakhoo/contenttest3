@@ -7,5 +7,6 @@
   "transferTo" : "Transfer to",
   "transferMoneyFrom" : "Transfer money from your friend",
   "available" : "Available Now",
-  "transfer" : "Transfer {amount}"
+  "transfer" : "Transfer {amount}",
+  "transferNow": "Transfer {amount} Now"
 }
